@@ -1,0 +1,38 @@
+.main{
+    border: 1px solid black;
+    margin-left: 320px;
+    margin-right: 320px;
+
+.profile-left{
+    display: inline-block;
+    margin-right: 20px;
+    padding-left: 80px;
+    padding-right: 40px;
+    background-color: #DEE4EB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+}
+
+.profile-right{
+
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.firstname{
+    margin: 0;
+    font-size: 60px;
+}
+
+.lastname{
+    color: rgb(39, 38, 73);
+    margin: 0;
+    font-size: 50px;
+}
+
+.p{
+    margin: 0;
+}
